@@ -1,22 +1,23 @@
 {
-  "name": "template-server-app",
+  "name": "taskwork",
   "version": "1.0.0",
   "description": "",
   "main": "src/app.js",
   "scripts": {
-    "test": "node ."
+    "test": "node .",
+    "start": "node ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SameeraMurthy/template-server-app.git"
+    "url": "git+https://github.com/SameeraMurthy/taskwork.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sameera M.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SameeraMurthy/template-server-app/issues"
+    "url": "https://github.com/SameeraMurthy/taskwork/issues"
   },
-  "homepage": "https://github.com/SameeraMurthy/template-server-app#readme",
+  "homepage": "https://github.com/SameeraMurthy/taskwork#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
